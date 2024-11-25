@@ -57,6 +57,3 @@ Pull requests welcome. Please run tests before submitting.
 ## License
 
 MIT
-
-
-Need any specific section expanded?
