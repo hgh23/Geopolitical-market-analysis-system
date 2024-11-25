@@ -44,6 +44,17 @@ if __name__ == "__main__":
 - Trading recommendations
 - Risk metrics
 
+## Example Output
+
+- Event: Ukraine military developments
+- Impact Score: -0.30
+- Affected Sectors: ENERGY, INDUSTRIALS, DEFENSE
+
+  Recommendations:
+- Monitor energy supply disruptions
+- Consider defensive positions
+- Evaluate cybersecurity exposure
+
 ## Data Models
 
 - GeopoliticalEvent
